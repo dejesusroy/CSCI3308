@@ -1,4 +1,4 @@
 Roy De Jesus
 Lab3 Version Control
-
-This might cause a merge conflict
+Partner: Tyler Albee
+This will not create a merge conflict
